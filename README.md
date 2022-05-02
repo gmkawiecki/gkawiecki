@@ -1,7 +1,7 @@
 # gkawiecki
 SUMMARY
 
-This document presents the results of a comparative experimental study of two basic Vertical Axis Wind Turbine (VAWT) configurations: a classical one with fixed blade pitch and a novel configuration with passive blade pitch control using a linkage mechanism with a center of rotation eccentric with respect to turbine’s vertical axis (Benedict and Chopra, 2016; Erickson et al, 2011). To the best of my knowledge, this is is the only study to compare experimentally both configurations, using the same basic test specimen. I carried out this work in my garage during the pandemic lockdown.
+The document "Development_of_Efficient_Vertical_Axis_Wind_Turbines" presents the result of a comparative experimental study of two basic Vertical Axis Wind Turbine (VAWT) configurations: a classical one with fixed blade pitch and a novel configuration with passive blade pitch control using a linkage mechanism with a center of rotation eccentric with respect to turbine’s vertical axis (Benedict and Chopra, 2016; Erickson et al, 2011). To the best of my knowledge, this is is the first study to compare experimentally both configurations, using the same basic test specimen. I carried out this work in my garage during the pandemic lockdown.
 
 Conclusions
 
