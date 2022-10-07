@@ -5,15 +5,24 @@ The document "Development_of_Efficient_Vertical_Axis_Wind_Turbines" presents the
 
 Files for VAWT performance estimation:
 1. forMST.f95: slightly modified FORTRAN code published by J. H. Strickland (DART), SAND75-0431 report.
-1.1 STRIDATA_ORIG.txt: DART input data published in Strickland's report. Used in forMST for validation.
-1.2 forMST_output.txt: forMST.f95 output.
-1.3 DART_digitized_output.csv: DART output.
-2. pyMSTv1.py: Python code based on Strickland's and Sanyer's work. 
-2.1 modMST.py: module with methods needed to run pyMSTv1.py
-2.2 STRIDATA_ORIG.csv: pyMSTv1 input.
-2.3 pyMSTv1_output.txt: pyMSTv1 output, for validation against Strickland results.
-2.4 cP_py_Vs_Strickland.png: plot presenting pyMSTv1-produced results against Strickland's results.
-2.5 fit_Strickland_data.png: plot for validating the interpolation method for Strickland's input data. 
+2. 
+3.1 STRIDATA_ORIG.txt: DART input data published in Strickland's report. Used in forMST for validation.
+
+4.2 forMST_output.txt: forMST.f95 output.
+
+5.3 DART_digitized_output.csv: DART output.
+
+6. pyMSTv1.py: Python code based on Strickland's and Sanyer's work.
+7.  
+8.1 modMST.py: module with methods needed to run pyMSTv1.py
+
+9.2 STRIDATA_ORIG.csv: pyMSTv1 input.
+
+10.3 pyMSTv1_output.txt: pyMSTv1 output, for validation against Strickland results.
+
+11.4 cP_py_Vs_Strickland.png: plot presenting pyMSTv1-produced results against Strickland's results.
+
+12.5 fit_Strickland_data.png: plot for validating the interpolation method for Strickland's input data. 
 
 Conclusions
 
