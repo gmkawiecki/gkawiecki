@@ -38,4 +38,5 @@ Benedict, M. and Chopra I., 2016, “Aerodynamics of a Small-Scale Vertical-Axis
 Erickson D. W., Wallace J. J. and Peraire J., 2011, " Performance Characterization of Cyclic Blade Pitch Variation on a Vertical Axis Wind Turbine," AIAA Paper 2011-638, Proceedings of 49th AIAA Aerospace Sciences Meeting including the New Horizons Forum and Aerospace Exposition.
 
 Strickland J. H., 1975, "The Darrieus Turbine: A Performance Prediction Model Using Multiple Streamtubes," SAND75-0431, Sandia Laboratories energy report.
+
 Sanyer W. E., 2011, "The Development of a Wind Turbine for Residential Use," M.Sc. thesis, Dept. of Mech. Eng., North Carolina State University.
