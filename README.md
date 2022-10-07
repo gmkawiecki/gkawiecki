@@ -4,25 +4,26 @@ SUMMARY
 The document "Development_of_Efficient_Vertical_Axis_Wind_Turbines" presents the result of a comparative experimental study of two basic Vertical Axis Wind Turbine (VAWT) configurations: a classical one with fixed blade pitch and a novel configuration with passive blade pitch control using a linkage mechanism with a center of rotation eccentric with respect to turbine’s vertical axis (Benedict and Chopra, 2016; Erickson et al, 2011). To the best of my knowledge, this is is the first study to compare experimentally both configurations, using the same basic test specimen. I carried out this work in my garage during the pandemic lockdown.
 
 Files for VAWT performance estimation:
+
 1. forMST.f95: slightly modified FORTRAN code published by J. H. Strickland (DART), SAND75-0431 report.
-2. 
-3.1 STRIDATA_ORIG.txt: DART input data published in Strickland's report. Used in forMST for validation.
 
-4.2 forMST_output.txt: forMST.f95 output.
+2. STRIDATA_ORIG.txt: DART input data published in Strickland's report. Used in forMST for validation.
 
-5.3 DART_digitized_output.csv: DART output.
+3. forMST_output.txt: forMST.f95 output.
 
-6. pyMSTv1.py: Python code based on Strickland's and Sanyer's work.
-7.  
-8.1 modMST.py: module with methods needed to run pyMSTv1.py
+4. DART_digitized_output.csv: DART output.
 
-9.2 STRIDATA_ORIG.csv: pyMSTv1 input.
+5. pyMSTv1.py: Python code based on Strickland's and Sanyer's work.
+  
+6. modMST.py: module with methods needed to run pyMSTv1.py
 
-10.3 pyMSTv1_output.txt: pyMSTv1 output, for validation against Strickland results.
+7. STRIDATA_ORIG.csv: pyMSTv1 input.
 
-11.4 cP_py_Vs_Strickland.png: plot presenting pyMSTv1-produced results against Strickland's results.
+8. pyMSTv1_output.txt: pyMSTv1 output, for validation against Strickland results.
 
-12.5 fit_Strickland_data.png: plot for validating the interpolation method for Strickland's input data. 
+9. cP_py_Vs_Strickland.png: plot presenting pyMSTv1-produced results against Strickland's results.
+
+10. fit_Strickland_data.png: plot for validating the interpolation method for Strickland's input data. 
 
 Conclusions
 
